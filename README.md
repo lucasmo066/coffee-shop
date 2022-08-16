@@ -28,3 +28,6 @@ Once you are in the backend folder, type 'npm start'. The backend will open on l
 For brevity sake, the password for logging in is always: pass
 
 You can use whatever username you'd like!
+
+### `Walkthrough Video`
+<a href="https://drive.google.com/file/d/1O2tSN9PgkUTaXl1_WTboRozl5Yq-EM6M/view"> Video
